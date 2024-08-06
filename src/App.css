@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.App {
+  padding: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+form {
+  margin-bottom: 40px;
+}
+.MuiFormControl-root {
+  margin-bottom: 16px; /* Espacio entre los campos del formulario */
+}
